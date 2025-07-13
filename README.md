@@ -52,6 +52,8 @@ This project aims to enhance the security of credit card transactions by providi
 This project requires the following dependencies:
 
 - **Programming Language:** JupyterNotebook
+- **Libraries and Dependencies used**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
+- **Machine Learning Algorithms and technqiues used**: SMOTE (Synthetic Minority OverSampling Technique), Manual Splitting with LightGBM, Feature Engineering, Model Evaluation, Splitting Data to Training and Testing Sets 
 
 ### Installation
 
@@ -68,12 +70,6 @@ Build Fraud-Detection-System-ML-Model from the source and intsall dependencies:
     ```sh
     ❯ cd Fraud-Detection-System-ML-Model
     ```
-
-3. **Install the dependencies:**
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-
 
 
 <div align="left"><a href="#top">⬆ Return</a></div>
