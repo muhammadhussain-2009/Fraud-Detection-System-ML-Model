@@ -53,7 +53,7 @@ This project requires the following dependencies:
 
 - **Programming Language:** JupyterNotebook
 - **Libraries and Dependencies used**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
-- **Machine Learning Algorithms and technqiues used**: SMOTE (Synthetic Minority OverSampling Technique), Manual Splitting with LightGBM, Feature Engineering, Model Evaluation, Splitting Data to Training and Testing Sets 
+- **Machine Learning Algorithms and techniques used**: SMOTE (Synthetic Minority OverSampling Technique), Manual Splitting with LightGBM, Feature Engineering, Model Evaluation, Splitting Data to Training and Testing Sets 
 
 ### Installation
 
