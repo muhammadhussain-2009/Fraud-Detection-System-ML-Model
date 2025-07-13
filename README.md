@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/github/languages/top/muhammadhussain-2009/Fraud-Detection-System-ML-Model?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/muhammadhussain-2009/Fraud-Detection-System-ML-Model?style=flat&color=0080ff" alt="repo-language-count">
 
-<em>Built with the tools and technologies:</em>
+<em>Built with the tools and technologies: Python, Jupyter Notebook, Numpy, Pandas, Scikit-Learn, LightGBM, Seaborn, Matplotlib</em>
 
 
 </div>
